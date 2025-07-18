@@ -1,0 +1,27 @@
+# Core Dependencies
+tensorflow==2.10.1
+numpy<2
+scipy
+keras
+
+# Audio Processing
+sounddevice
+librosa
+mido
+
+# Data Processing
+pandas
+json5
+
+# Utility Libraries
+tqdm
+matplotlib
+seaborn
+
+# Development Tools
+jupyter
+ipykernel
+
+# Optional: For advanced audio processing
+# pyaudio
+# pydub
